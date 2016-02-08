@@ -58,6 +58,7 @@ define(
 			
 			if(classname == 'login-form'){
 				$('.ulogin').hide();
+				$('.ulogin').hide();
 				$('#user-forgot-pass-form').show();
 			}else if(classname == 'contactseller-form'){
 				var formURL   = $(this).attr('href');
