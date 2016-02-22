@@ -4,6 +4,7 @@
 
 define(
 	[
+	'Angular',
 	'jquery',
 	'blockui',
 	'jquery-loadmask',
